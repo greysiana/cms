@@ -70,7 +70,6 @@
                         <small>Secondary Text</small>
                     </h1>
 
-
                     <!-- First Blog Post -->
                     <h1><?php echo $count; ?></h1>
                     <h2>
