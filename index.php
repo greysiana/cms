@@ -72,6 +72,7 @@
 
                     <!-- First Blog Post -->
                     <h1><?php echo $count; ?></h1>
+
                     <h2>
                         <!-- Unruk mendapatkan judul dengan titlr post yang diambil dari id -->
                         <a href="post/<?php echo $post_id ?>"><?php echo $post_title; ?></a>
